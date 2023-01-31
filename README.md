@@ -20,7 +20,8 @@
  **Creating Dashboard**
  - Arrange all KPI's and Chart on Dashboard
  - Creating Nevigate Panal
- - Creating Dynamic charts or details ( Using Show / Hide Button
+ - Creating Dynamic charts or details ( Using Show / Hide Button )
  - Focus on formating
- - Focus on Fonts , Spacing
+ - Focus on Fonts , Spacing.
+ 
 ![image](Images/Stage_3.png)
