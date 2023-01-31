@@ -4,7 +4,8 @@
  - No need to focus on formating
  - Creating 4 Important KPI's for Dashboard
  
- ![alt text](https:C:\Users\admin\OneDrive\Documents\Data Sciesnce Repository\Tablue_Dashboard_\Sales Dashboard\Images?raw=true)
+ ![plot](C:\Users\admin\OneDrive\Documents\Data Sciesnce Repository\Tablue_Dashboard_\Sales Dashboard\Images\stage 1.png)
+
  
  Stage 2 Creating Charts
  - Create different charts based on data available
