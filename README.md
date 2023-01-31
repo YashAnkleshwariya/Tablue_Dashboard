@@ -4,7 +4,7 @@
  - No need to focus on formating
  - Creating 4 Important KPI's for Dashboard
  
- ![image](Images/Stage 1.png)
+ ![image](Images/Stage 1 .png)
 
  
  Stage 2 Creating Charts
