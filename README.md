@@ -11,7 +11,7 @@
  # Stage 2 
  **Creating Charts**
  - Create different charts based on data available
- - Chart Layout ( Titel , Lebal , Colour)
+ - Chart Layout ( Title , Label , Colour)
  
  ![image](Images/Stage_2.png)
  
